@@ -7,6 +7,7 @@ namespace MyProject
 {
     public class Program
     {
+        // Comment
         public static void Main(string[] args)
             => CreateHostBuilder(args)
                 .Build()
